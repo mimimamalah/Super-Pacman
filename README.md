@@ -22,6 +22,14 @@ To talk to him you can teleport using a vortex which will send you to him, but y
 
 Be careful, you have a limited amount of life points. If you have no more, the game is over and you LOOSE.
 
+# Level 0/1
+
+![SuperPacman1](gif/SuperPacman1.gif)
+
+# Level Bonus
+
+![SuperPacman2](gif/SuperPacman2.gif)
+
 
 # Conception
 
