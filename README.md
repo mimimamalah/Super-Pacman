@@ -4,16 +4,6 @@
 
 Embark on an exciting adventure with SuperPac-Man! This README provides essential instructions and insights into the game. Prepare for a journey of strategy, skill, and a dash of luck.
 
-### Game Controls
-
-Navigate through the game using the following commands:
-
-- **Directional Arrows**: Move your character
-- **TAB**: Exit the game
-- **SPACE**: Pause the game
-- **ENTER**: Continue (when paused)
-- **T**: Drop bombs (available after collection, returns to the player after a set time)
-- **S**: Restart the game
 
 ## How to Win
 
@@ -23,6 +13,8 @@ Your mission is to rescue the charming prince, captured by the mischievous ghost
 
 - **Objective**: Find the key and unlock the path to Level 1.
 - **Challenge**: Collect all diamonds to open the gate to Level 2.
+  
+![SuperPacman1](gif/SuperPacman1.gif)
 
 ### Level 2: The Ghostly Encounter
 
@@ -34,15 +26,22 @@ Your mission is to rescue the charming prince, captured by the mischievous ghost
 - **Objective**: In this toughest level, liberate the charming prince by collecting all diamonds and using keys wisely.
 - **Special Aid**: Utilize bombs and seek Clyde the Infiltrate Ghost's assistance. Earn 2000 points to activate Clyde, who targets and neutralizes ghosts.
 
+![SuperPacman2](gif/SuperPacman2.gif)
+
 **Note**: Maintain your life points! Running out signifies game over.
 
-## Game Levels
 
-### Level 0/1
-![SuperPacman1](gif/SuperPacman1.gif)
+### Game Controls
 
-### Level Bonus
-![SuperPacman2](gif/SuperPacman2.gif)
+Navigate through the game using the following commands:
+
+- **Directional Arrows**: Move your character
+- **TAB**: Exit the game
+- **SPACE**: Pause the game
+- **ENTER**: Continue (when paused)
+- **T**: Drop bombs (available after collection, returns to the player after a set time)
+- **S**: Restart the game
+
 
 ## Game Design and Conception
 
